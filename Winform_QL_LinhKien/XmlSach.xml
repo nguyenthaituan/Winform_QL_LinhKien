@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ds>
+	<sach>
+		<masach>s1</masach>
+		<tensach>khoahoc</tensach>
+		<soluong>10</soluong>
+		<dongia>10000</dongia>
+	</sach>
+
+	<sach>
+		<masach>s2</masach>
+		<tensach>vanhoa</tensach>
+		<soluong>12</soluong>
+		<dongia>20000</dongia>
+	</sach>
+</ds>
