@@ -169,7 +169,7 @@
             this.Column7});
             this.dataGridView1.Location = new System.Drawing.Point(57, 318);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(676, 150);
+            this.dataGridView1.Size = new System.Drawing.Size(714, 150);
             this.dataGridView1.TabIndex = 12;
             // 
             // Column1
@@ -270,7 +270,7 @@
             this.label7.TabIndex = 19;
             this.label7.Text = "Ghi chú";
             // 
-            // MHQLDanhMuc
+            // DanhMuc_LinhKien
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -295,7 +295,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "MHQLDanhMuc";
+            this.Name = "DanhMuc_LinhKien";
             this.Text = "MHQLDanhMuc";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
